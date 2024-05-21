@@ -445,7 +445,7 @@ cursor: pointer;
 }
 
 /* Blog Posts */
-section.blog{
+.blog{
     padding: 2rem 0;
     background-color: #fff;
 }
