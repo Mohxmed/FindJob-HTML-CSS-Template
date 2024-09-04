@@ -6,7 +6,7 @@ Creative Employing Company Landing Page with just HTML5 &amp; CSS3
 <a traget="_blank" href="https://mohxmed.github.io/FindJob-HTML-CSS-Template/">Live Preview</a>
 
 # Credits
-icons : <a href="https://heroicons.com/">Heroicons</a>
+Icons : <a href="https://heroicons.com/">Heroicons</a>
 Patterns : <a href="https://heropatterns.com/">Hero Patterns</a>
 PNG Icons : <a href="https://flaticon.com/">FlatIcon</a>
 
