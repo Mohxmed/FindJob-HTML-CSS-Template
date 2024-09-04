@@ -7,14 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="FindJob HTML Template Designed by Mhmd Amr">
     <title>FindJob</title>
-    <!-- Stylesheets -->
     <link rel="stylesheet" href="styles/normalize.css">
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/media.css">
 </head>
 
 <body>
-    <!-- Page Header -->
     <header>
         <div class="container">
             <div class="logo col">
@@ -41,7 +39,6 @@
             </button>
         </div>
     </header>
-    <!-- Landing Section - 100vh -->
     <section class="landing">
         <div class="container">
             <div class="col-1">
@@ -51,7 +48,6 @@
             <div class="col-2">
                 <h1>Find Your Future, Elevate Your <span style="color: #615ff1;">Career Today!</span></h1>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi harum minus perspiciatis</p>
-                <!-- Landing Form -->
                 <form>
                     <div class="select-col">
                         <input required class="loc" list="locations" id="location" name="location"
@@ -80,12 +76,10 @@
                         <input required class="submitbtn" type="submit" value="Search" autocomplete="off">
                     </div>
                 </form>
-                <!-- End Landing Form -->
             </div>
 
         </div>
     </section>
-    <!-- Categories Section  -->
     <section class="categories">
         <div class="container">
             <h1 class="main-title">Popular Jobs Categories</h1>
@@ -151,7 +145,6 @@
             </div>
         </div>
     </section>
-    <!-- Resume Section -->
     <section class="resume">
         <div class="container">
             <div class="col-1">
@@ -177,7 +170,6 @@
             </div>
         </div>
     </section>
-    <!-- Browse Jobs -->
     <main class="popular-jobs">
         <div class="container">
             <h1 class="main-title">Explore Popular Jobs</h1>
@@ -622,6 +614,17 @@
         </section>
     </footer>
     <!-- End -->
+
+    <script>
+        document.querySelector(".menu-btn").onclick = function () {
+            console.log("clicked")
+            if (document.querySelector('.navlinks').classList.contains("open")) {
+                document.querySelector(".navlinks").classList.remove("open");
+            } else {
+                document.querySelector(".navlinks").classList.add("open");
+            }
+        }
+    </script>
 </body>
 
 </html>
