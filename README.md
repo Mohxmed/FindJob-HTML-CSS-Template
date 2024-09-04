@@ -1,6 +1,6 @@
 # FindJob-HTML-CSS-Template
 Creative Employing Company Landing Page with just HTML5 &amp; CSS3
-
+<B>V 1.0.3</B>
 
 # Live Preview
 <a traget="_blank" href="https://mohxmed.github.io/FindJob-HTML-CSS-Template/">Live Preview</a>
@@ -13,5 +13,6 @@ PNG Icons : <a href="https://flaticon.com/">FlatIcon</a>
 # Note
 This is an old design , made it while i was learning HTML / CSS 
 It has some bugs regarding writing clean code.
+
 ل
 ل
