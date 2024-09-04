@@ -13,6 +13,3 @@ PNG Icons : <a href="https://flaticon.com/">FlatIcon</a>
 # Note
 This is an old design , made it while i was learning HTML / CSS 
 It has some bugs regarding writing clean code.
-
-ل
-ل
